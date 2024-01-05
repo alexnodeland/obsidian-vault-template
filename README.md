@@ -13,6 +13,10 @@ This Obsidian vault template is designed to streamline your personal note-taking
 - [BRAT](https://github.com/TfTHacker/obsidian42-brat)
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 
+### Leverage local LLMs with Text Generator
+
+Follow the instructions at this [link](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/182) to configure Text Generator to use local LLMs via [LMStudio](https://lmstudio.ai/). 
+
 ### Use JSX Components, like this:
 
 `jsx:<Hello name={"World"}/>`
