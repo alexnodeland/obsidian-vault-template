@@ -17,12 +17,12 @@ This Obsidian vault template is designed to streamline your personal note-taking
 
 Follow the instructions at this [link](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/182) to configure Text Generator to use local LLMs via [LMStudio](https://lmstudio.ai/). 
 
-### Use JSX Components, like this:
+### Use JSX Components, with templates, like this:
 
 `jsx:<Hello name={"World"}/>`
 
-or this:
+or directly in code blocks, like this:
 
 ```jsx:
-<Hello name={"World"}/>
+<h1>Hello, World!</h1>
 ```
