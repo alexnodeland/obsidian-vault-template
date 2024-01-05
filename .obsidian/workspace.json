@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,39 +159,45 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "53425707f8ac54e1",
+  "active": "5ad44e0b82697c48",
   "lastOpenFiles": [
-    "test.md",
-    "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
-    "_config/textgenerator/prompts/huggingface/summarizeBART.md",
-    "_config/textgenerator/prompts/huggingface/completeTextBloom.md",
-    "_config/textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
-    "_config/textgenerator/prompts/default/getParagraph.md",
-    "_config/textgenerator/prompts/default/getTags.md",
-    "_config/textgenerator/prompts/default/getOutline.md",
-    "_config/textgenerator/prompts/default/getIdeas.md",
-    "_config/textgenerator/prompts/default/getEmailNeg.md",
-    "_config/textgenerator/prompts/default/getEmailPos.md",
-    "_config/textgenerator/prompts/default/getTitles.md",
-    "_config/textgenerator/prompts/default/rewrite.md",
-    "_config/textgenerator/prompts/default/simplify.md",
     "_config/textgenerator/prompts/default/summarize.md",
     "_config/textgenerator/prompts/default/summarizeLarge.md",
-    "_config/textgenerator/prompts/alexnodeland",
-    "_config",
-    "Untitled.pdf",
-    "2024-01-04.md",
-    "_config/textgenerator/prompts/huggingface",
-    "_config/textgenerator/prompts/default",
-    "_config/textgenerator/prompts",
-    "_config/textgenerator",
-    "Excalidraw/Drawing 2023-12-27 16.43.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-27 16.43.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-27 16.43.37.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-27 16.42.27.excalidraw.md",
-    "Excalidraw",
-    "Untitled/Untitled",
-    "Welcome.md",
-    "create a link.md"
+    "_config/react-components/hello.md",
+    "README.md",
+    "_config/react-components/simplethreejs.md",
+    "package-lock.json",
+    "node_modules/three/examples/jsm/libs/draco/gltf/draco_decoder.wasm",
+    "node_modules/three/examples/jsm/libs/rhino3dm/rhino3dm.wasm",
+    "node_modules/three/examples/jsm/libs/draco/draco_decoder.wasm",
+    "node_modules/three/examples/jsm/libs/basis/basis_transcoder.wasm",
+    "node_modules/three/examples/fonts/droid/README.txt",
+    "node_modules/three/examples/jsm/libs/ammo.wasm.wasm",
+    "node_modules/three/README.md",
+    "node_modules/three/examples/jsm/libs/basis/README.md",
+    "node_modules/three/examples/jsm/libs/draco/README.md",
+    "node_modules/three/examples/fonts/ttf/kenpixel.ttf",
+    "node_modules/three/examples/fonts/ttf/README.md",
+    "node_modules/three/examples/fonts/ttf",
+    "node_modules/three/examples/jsm/nodes/materialx/DISCLAIMER.md",
+    "node_modules/three/examples/fonts/README.md",
+    "node_modules/three/package.json",
+    "node_modules/@types/webxr/README.md",
+    "node_modules/@types/react-reconciler/README.md",
+    "node_modules/its-fine/node_modules/@types/react-reconciler/README.md",
+    "node_modules/react-dom/README.md",
+    "node_modules/@react-three/fiber/readme.md",
+    "node_modules/@react-three/fiber/CHANGELOG.md",
+    "node_modules/react/README.md",
+    "node_modules/react-reconciler/README.md",
+    "node_modules/react-dom/node_modules/scheduler/README.md",
+    "node_modules/@babel/runtime/README.md",
+    "node_modules/its-fine/README.md",
+    "node_modules/suspend-react/readme.md",
+    "node_modules/react-use-measure/test/public/logo512.png",
+    "node_modules/react-use-measure/test/public/logo192.png",
+    "node_modules/react-use-measure/test/README.md",
+    "node_modules/@types/scheduler/README.md",
+    "node_modules/@types/react/README.md"
   ]
 }
