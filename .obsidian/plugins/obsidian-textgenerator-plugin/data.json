@@ -1,0 +1,105 @@
+{
+  "version": "0.5.13",
+  "endpoint": "http://localhost:1234/v1",
+  "models": {},
+  "api_key": "",
+  "encrypt_keys": false,
+  "selectedProvider": "OpenAI Instruct (Langchain)",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "frequency_penalty": 0.5,
+  "prompt": "",
+  "showStatusBar": true,
+  "outputToBlockQuote": false,
+  "freeCursorOnStreaming": false,
+  "allowJavascriptRun": false,
+  "promptsPath": "_config/textgenerator/prompts",
+  "prefix": "\n\n",
+  "tgSelectionLimiter": "^\\*\\*\\*",
+  "stream": true,
+  "context": {
+    "customInstructEnabled": false,
+    "includeClipboard": true,
+    "customInstruct": "Title: {{title}}\n  \nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}",
+    "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"
+  },
+  "requestTimeout": 300000,
+  "options": {
+    "generate-text": true,
+    "generate-text-with-metadata": true,
+    "insert-generated-text-From-template": true,
+    "create-generated-text-From-template": false,
+    "search-results-batch-generate-from-template": true,
+    "insert-text-From-template": false,
+    "create-text-From-template": false,
+    "show-modal-From-template": true,
+    "open-template-as-tool": true,
+    "open-playground": true,
+    "set_max_tokens": true,
+    "set-llm": true,
+    "packageManager": true,
+    "create-template": false,
+    "get-title": true,
+    "generated-text-to-clipboard-From-template": false,
+    "calculate-tokens": true,
+    "calculate-tokens-for-template": true,
+    "modal-suggest": false,
+    "text-extractor-tool": true,
+    "stop-stream": true,
+    "custom-instruct": true,
+    "reload": true
+  },
+  "autoSuggestOptions": {
+    "isEnabled": true,
+    "delay": 300,
+    "numberOfSuggestions": 5,
+    "triggerPhrase": "  ",
+    "stop": ".",
+    "showStatus": true
+  },
+  "extractorsOptions": {
+    "PDFExtractor": true,
+    "WebPageExtractor": true,
+    "YoutubeExtractor": true,
+    "AudioExtractor": false,
+    "ImageExtractorEmbded": true,
+    "ImageExtractor": true
+  },
+  "displayErrorInEditor": false,
+  "LLMProviderOptions": {
+    "whisper": {
+      "base_path": "https://api.openai.com/v1"
+    },
+    "OpenAI Chat (Langchain)": {
+      "basePath": "http://localhost:1234/v1/chat/completions",
+      "model": "gpt-4-0613"
+    },
+    "Ollama (Langchain)": {},
+    "Default (Custom)": {
+      "endpoint": "http://localhost:1234/v1/chat/completions",
+      "handlebars_headers_in": "{\n      \"Content-Type\": \"application/json\",\n}",
+      "handlebars_body_in": "{\n    \"temperature\": {{temperature}},\n    \"max_tokens\": {{max_tokens}},\n    \"stream\": {{stream}},\n    \"stop\": \"{{stop}}\",\n    \"messages\": [\n      {{#each messages}}{{#if @index}},{{/if}}\n      {\n        \"role\": \"{{role}}\",\n        \"content\": \"{{escp content}}\"\n      }{{/each}}\n    ]\n}",
+      "path_to_choices": "choices",
+      "path_to_message_content": "message.content",
+      "path_to_error_message": "error.message",
+      "sanatization_streaming": "(chunk) => {\n    let resultText = \"\";\n    const lines = chunk.split(\"\\ndata: \");\n  \n    const parsedLines = lines\n      .map((line) => line.replace(/^data: /, \"\").trim()) // Remove the \"data: \" prefix\n      .filter((line) => line !== \"\" && line !== \"[DONE]\") // Remove empty lines and \"[DONE]\"\n      .map((line) => JSON.parse(line)); // Parse the JSON string\n  \n    for (const parsedLine of parsedLines) {\n      const { choices } = parsedLine;\n      const { delta } = choices[0];\n      const { content } = delta;\n      // Update the UI with the new content\n      if (content) {\n        resultText += content;\n      }\n    }\n    return resultText;\n  }",
+      "model": "gpt-3.5-turbo-16k",
+      "presence_penalty": 0.5,
+      "top_p": 1,
+      "streamable": true,
+      "role": "user",
+      "content": "hello world"
+    },
+    "Huggingface (Langchain)": {},
+    "OpenAI Instruct (Langchain)": {
+      "basePath": "http://localhost:1234/v1",
+      "model": "gpt-3.5-turbo-instruct",
+      "api_key": ""
+    }
+  },
+  "LLMProviderOptionsKeysHashed": {
+    "OpenAI Instruct (Langchain).api_key": "__@#key_prefix#@__thisisanapikey"
+  },
+  "model": "gpt-4-0613",
+  "api_key_encrypted": "__@#key_prefix#@__thisisanapikey"
+}

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d02aa4f72141c669",
+    "type": "split",
+    "children": [
+      {
+        "id": "f209dcb2ed98d72f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53425707f8ac54e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "150c19ff2888b02a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe821743761f35a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad44e0b82697c48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "177c4756ee58ff66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "612c5b30b6bc16e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47f089fc5a88262f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b46063d92091759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a69eecbfdb112318",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a47c7c300658b82f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77f9eb8d07e67cba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c818cd4cbc2f078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md"
+              }
+            }
+          },
+          {
+            "id": "d85aa59e57d10e6e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "53425707f8ac54e1",
+  "lastOpenFiles": [
+    "test.md",
+    "_config/textgenerator/prompts/alexnodeland/chainOfDensity.md",
+    "_config/textgenerator/prompts/huggingface/summarizeBART.md",
+    "_config/textgenerator/prompts/huggingface/completeTextBloom.md",
+    "_config/textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
+    "_config/textgenerator/prompts/default/getParagraph.md",
+    "_config/textgenerator/prompts/default/getTags.md",
+    "_config/textgenerator/prompts/default/getOutline.md",
+    "_config/textgenerator/prompts/default/getIdeas.md",
+    "_config/textgenerator/prompts/default/getEmailNeg.md",
+    "_config/textgenerator/prompts/default/getEmailPos.md",
+    "_config/textgenerator/prompts/default/getTitles.md",
+    "_config/textgenerator/prompts/default/rewrite.md",
+    "_config/textgenerator/prompts/default/simplify.md",
+    "_config/textgenerator/prompts/default/summarize.md",
+    "_config/textgenerator/prompts/default/summarizeLarge.md",
+    "_config/textgenerator/prompts/alexnodeland",
+    "_config",
+    "Untitled.pdf",
+    "2024-01-04.md",
+    "_config/textgenerator/prompts/huggingface",
+    "_config/textgenerator/prompts/default",
+    "_config/textgenerator/prompts",
+    "_config/textgenerator",
+    "Excalidraw/Drawing 2023-12-27 16.43.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 16.43.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 16.43.37.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 16.42.27.excalidraw.md",
+    "Excalidraw",
+    "Untitled/Untitled",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
