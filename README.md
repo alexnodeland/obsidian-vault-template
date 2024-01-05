@@ -20,3 +20,9 @@ Follow the instructions at this [link](https://github.com/nhaouari/obsidian-text
 ### Use JSX Components, like this:
 
 `jsx:<Hello name={"World"}/>`
+
+or this:
+
+```jsx:
+<Hello name={"World"}/>
+```
