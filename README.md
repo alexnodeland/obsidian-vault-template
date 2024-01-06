@@ -21,6 +21,7 @@ This Obsidian vault template is designed to streamline your personal note-taking
 - [DB Folder](https://github.com/RafaelGB/obsidian-db-folder)
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 - [Execute Code](https:/github.com/twibiral/obsidian-execute-code)
+- [Settings Search](https:/github.com/javalent/settings-search)
 
 
 ### Styling
