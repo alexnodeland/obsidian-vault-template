@@ -1,0 +1,6 @@
+{
+  "pinned": [
+    "obsidian-textgenerator-plugin:generate-text",
+    "obsidian-pandoc:pandoc-export-pdf"
+  ]
+}

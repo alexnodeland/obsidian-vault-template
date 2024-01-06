@@ -9,5 +9,7 @@
   "obsidian-react-components",
   "templater-obsidian",
   "dbfolder",
-  "code-styler"
+  "code-styler",
+  "obsidian-zotero-desktop-connector",
+  "execute-code"
 ]
