@@ -19,7 +19,7 @@ Follow the instructions at this [link](https://github.com/nhaouari/obsidian-text
 
 ### Use JSX Components
 
-With templates, like this:
+With templates like [this](_config/react-components/hello.md):
 
 `jsx:<Hello name={"World"}/>`
 
