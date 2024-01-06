@@ -11,5 +11,5 @@
   "pdflatex": "/usr/local/bin/pdflatex",
   "outputFolder": null,
   "extraArguments": "",
-  "exportFrom": "md"
+  "exportFrom": "html"
 }

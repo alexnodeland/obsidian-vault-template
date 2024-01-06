@@ -29,6 +29,8 @@ This Obsidian vault template is designed to streamline your personal note-taking
 - [Obsidian-Dark-Graphite-Pie-theme](https://github.com/ryjjin/Obsidian-Dark-Graphite-Pie-theme)
 - [Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler)
 
+## Notes
+
 ### Leverage local LLMs with Text Generator
 
 Follow the instructions at this [link](https://github.com/nhaouari/obsidian-textgenerator-plugin/issues/182) to configure Text Generator to use local LLMs via [LMStudio](https://lmstudio.ai/). 

@@ -1,8 +1,8 @@
 {
-  "database": "Juris-M",
-  "noteImportFolder": "",
+  "database": "Zotero",
+  "noteImportFolder": "lit-notes/",
   "pdfExportImageDPI": 120,
-  "pdfExportImageFormat": "jpg",
+  "pdfExportImageFormat": "png",
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
@@ -13,8 +13,8 @@
   ],
   "exportFormats": [],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
-  "whichNotesToOpenAfterImport": "first-imported-note",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "all-imported-notes",
   "pdfExportImageTesseractPath": "/opt/homebrew/bin/tesseract",
   "pdfExportImageOCR": true
 }
