@@ -13,12 +13,14 @@ This Obsidian vault template is designed to streamline your personal note-taking
 
 - [Text Generator](https://github.com/nhaouari/obsidian-textgenerator-plugin)
 
+- [Zotero Plugin](https:/github.com/mgmeyers/obsidian-zotero-integration)
 - [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc)
 
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
 - [DB Folder](https://github.com/RafaelGB/obsidian-db-folder)
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
+- [Execute Code](https:/github.com/twibiral/obsidian-execute-code)
 
 
 ### Styling
@@ -39,5 +41,13 @@ With templates like [this](_config/react-components/hello.md):
 or directly in code blocks, like this:
 
 ```jsx:
-<h1>Hello, World!</h1>
+<body>Hello, World!</body>
+```
+
+### Zotero PDF OCR Setup
+
+Make sure to install `tesseract` with (for macOS):
+
+```bash
+brew install tesseract
 ```
