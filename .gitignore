@@ -1,1 +1,7 @@
+# .gitignore
+
+# Ignore macOS system files.
 **/.DS_Store
+
+# Ignore Obsidian cache.
+.obsidian/workspace.json
