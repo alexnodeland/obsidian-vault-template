@@ -21,9 +21,10 @@ This Obsidian vault template is designed to streamline your personal note-taking
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 
 
-### Installed Theme
+### Styling
 
 - [Obsidian-Dark-Graphite-Pie-theme](https://github.com/ryjjin/Obsidian-Dark-Graphite-Pie-theme)
+- [Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler)
 
 ### Leverage local LLMs with Text Generator
 

@@ -8,5 +8,6 @@
   "obsidian-pandoc",
   "obsidian-react-components",
   "templater-obsidian",
-  "dbfolder"
+  "dbfolder",
+  "code-styler"
 ]
