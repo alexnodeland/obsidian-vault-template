@@ -3,5 +3,6 @@
 # Ignore macOS system files.
 **/.DS_Store
 
-# Ignore Obsidian cache.
+# Ignore Obsidian files
 .obsidian/workspace.json
+.trash/**
