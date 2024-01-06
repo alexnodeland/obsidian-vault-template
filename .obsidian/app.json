@@ -1,4 +1,13 @@
 {
   "promptDelete": false,
-  "livePreview": false
+  "livePreview": false,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_assets",
+  "userIgnoreFilters": [
+    "_config/",
+    "_assets/"
+  ],
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
 }
