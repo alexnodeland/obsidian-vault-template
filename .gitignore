@@ -4,5 +4,5 @@
 **/.DS_Store
 
 # Ignore Obsidian files
-.obsidian/workspace.json
 .trash/**
+.obsidian/workspace.json
