@@ -17,6 +17,7 @@ This Obsidian vault template is designed to streamline your personal note-taking
 
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
+- [DB Folder](https://github.com/RafaelGB/obsidian-db-folder)
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 
 
