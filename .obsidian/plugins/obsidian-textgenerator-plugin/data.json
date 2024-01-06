@@ -18,7 +18,7 @@
   "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": true,
   "context": {
-    "customInstructEnabled": false,
+    "customInstructEnabled": true,
     "includeClipboard": true,
     "customInstruct": "Title: {{title}}\n  \nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}",
     "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"
