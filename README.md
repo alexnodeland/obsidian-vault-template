@@ -4,14 +4,25 @@ This Obsidian vault template is designed to streamline your personal note-taking
 
 ## Included Plugins
 
+- [BRAT](https://github.com/TfTHacker/obsidian42-brat)
+
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+- [Templater](https://github.com/SilentVoid13/Templater)
+- [QuickAdd](https://github.com/chhoumann/quickadd)
+- [Tag Wrangler](https://github.com/pjeby/tag-wrangler)
+
 - [Text Generator](https://github.com/nhaouari/obsidian-textgenerator-plugin)
+
 - [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc)
+
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian)
-- [Tag Wrangler](https://github.com/pjeby/tag-wrangler)
-- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
-- [BRAT](https://github.com/TfTHacker/obsidian42-brat)
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
+
+
+### Installed Theme
+
+- [Obsidian-Dark-Graphite-Pie-theme](https://github.com/ryjjin/Obsidian-Dark-Graphite-Pie-theme)
 
 ### Leverage local LLMs with Text Generator
 
