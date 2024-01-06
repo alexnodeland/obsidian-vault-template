@@ -3,6 +3,7 @@
     "obsidian-textgenerator-plugin:generate-text",
     "obsidian-pandoc:pandoc-export-pdf",
     "dbfolder:create-new-database-folder",
-    "obsidian-zotero-desktop-connector:zdc-insert-notes"
+    "obsidian-zotero-desktop-connector:zdc-insert-notes",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed"
   ]
 }

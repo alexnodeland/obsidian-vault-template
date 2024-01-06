@@ -17,5 +17,6 @@
     "downscalePercent": 100
   },
   "defaultViewMode": "preview",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newLinkFormat": "absolute"
 }
