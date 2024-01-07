@@ -5,8 +5,11 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_assets",
   "userIgnoreFilters": [
-    "_config/",
-    "_assets/"
+    "_config",
+    "_assets/",
+    "journal/_journal",
+    "lit-notes/_lit-notes",
+    "lit-note/_lit-note"
   ],
   "alwaysUpdateLinks": true,
   "trashOption": "local",
