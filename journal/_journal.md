@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
-description: new description
+name: journal
+description: database view of daily-notes
 columns:
   __file__:
     key: __file__
@@ -30,6 +30,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_vertical_alignment: align-middle
+      content_alignment: text-align-center
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -49,7 +51,7 @@ config:
   source_destination_path: /
   row_templates_folder: _config/db-folders/templates
   current_row_template: 
-  pagination_size: 10
+  pagination_size: 200
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
@@ -58,7 +60,7 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
   implementation: default
 filters:
   enabled: false

@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "1b4ca7ac495ea400",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0637a665fa66641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89dde2c47a9f6811",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "284b67323e3caa65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "27fdbd5ccb241b47",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7b1f55538331a5b2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "535d813090fa5522",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "872b93cad599f343",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "6bcb3df6b1de79a6",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "ca9818a38353b506",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "73c4131e05d39ce4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b70442683e25723",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cf7a6a9fff4e317a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "journal/Untitled.md"
+          }
+        }
+      },
+      {
+        "id": "c6e488877caf265b",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "27fdbd5ccb241b47",
+  "lastOpenFiles": [
+    "journal/2024-01-07.md",
+    "journal/Untitled.md",
+    "_config/templater/templates/daily-note.md",
+    "_config/daily-note/template.md",
+    "_config/templater/templates/_templates.md",
+    "README.md",
+    "journal/_journal.md",
+    "journal/test.md",
+    "journal/drawing_20240107.excalidraw.md",
+    "journal/2024-01-06.md",
+    "_assets/drawings/drawing_20240107.excalidraw.md"
+  ]
+}
