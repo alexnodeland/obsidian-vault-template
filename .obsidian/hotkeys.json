@@ -1,0 +1,12 @@
+{
+  "obsidian-textgenerator-plugin:generate-text-with-metadata": [],
+  "obsidian-textgenerator-plugin:stop-stream": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}
