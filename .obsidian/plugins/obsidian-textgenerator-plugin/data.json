@@ -10,7 +10,7 @@
   "frequency_penalty": 0.5,
   "prompt": "",
   "showStatusBar": true,
-  "outputToBlockQuote": false,
+  "outputToBlockQuote": true,
   "freeCursorOnStreaming": false,
   "allowJavascriptRun": false,
   "promptsPath": "_config/textgenerator/prompts",
@@ -18,7 +18,7 @@
   "tgSelectionLimiter": "^\\*\\*\\*",
   "stream": true,
   "context": {
-    "customInstructEnabled": true,
+    "customInstructEnabled": false,
     "includeClipboard": true,
     "customInstruct": "Title: {{title}}\n  \nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}",
     "contextTemplate": "Title: {{title}}\n\t\nStarred Blocks: {{starredBlocks}}\n\t  \n{{tg_selection}}"

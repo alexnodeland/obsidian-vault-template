@@ -21,5 +21,6 @@
   },
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "readableLineLength": false
 }
