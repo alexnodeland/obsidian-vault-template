@@ -2,8 +2,5 @@
   "accentColor": "",
   "cssTheme": "Dark Graphite Pie",
   "translucency": true,
-  "enabledCssSnippets": [
-    "custom-mermaid"
-  ],
-  "baseFontSize": 23
+  "theme": "obsidian"
 }

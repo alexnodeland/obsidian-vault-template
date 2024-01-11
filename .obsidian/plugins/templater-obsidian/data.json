@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "journal",
+      "template": "_config/templater/templates/daily-note.md"
     }
   ],
   "syntax_highlighting": true,
