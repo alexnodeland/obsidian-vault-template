@@ -49,7 +49,7 @@ or directly in code blocks, like this:
 
 ### Zotero PDF OCR Setup
 
-Make sure to install `tesseract` with (for macOS):
+Make sure to install `tesseract` with:
 
 ```bash
 brew install tesseract
