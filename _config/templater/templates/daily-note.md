@@ -1,8 +1,9 @@
 ---
-date: <% tp.file.creation_date() %>
+creation date: <% tp.file.creation_date("YYYY-MM-DD") %>
+modification date: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 ---
 
-# <% tp.file.title %>
+<< [Yesterday](<% tp.date.now("YYYY-MM-DD", -1) %>.md) | [Tomorrow](<% tp.date.now("YYYY-MM-DD", 1) %>.md) >>
 
 ## Reading
 
