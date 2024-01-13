@@ -22,5 +22,5 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "newLinkFormat": "absolute",
-  "readableLineLength": false
+  "readableLineLength": true
 }
